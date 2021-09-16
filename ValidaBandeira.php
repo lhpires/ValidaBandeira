@@ -3,6 +3,7 @@
 function validaBandeira($codigo)
  {
  
+echo 'dito';
 
     $tipo = array(
         "visa"       => "/^4[0-9]{12}(?:[0-9]{3})?$/",
